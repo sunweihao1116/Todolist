@@ -1,6 +1,7 @@
 # todolist
 
 > A Vue.js project
+> A Todolist 
 
 ## Build Setup
 
